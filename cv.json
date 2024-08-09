@@ -1,0 +1,405 @@
+{
+  "basics": {
+    "name": "Maxence Hattabi",
+    "label": "Développeur Web",
+    "image": "/me_avatar.png",
+    "email": "maxence.hattabi@gmail.com",
+    "phone": "+33 6 44 78 10 61",
+    "url": "https://johndoe.dev",
+    "summary": "Développeur passioné dans la conception de sites web et d'application. J'aime travailler sur des back-offices complexes et des interfaces utilisateur intuitives. Je suis toujours à la recherche de nouveaux défis et de projets intéressants.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "33000",
+      "city": "Bordeaux",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "maxence-hattabi",
+        "url": "https://www.linkedin.com/in/maxence-hattabi/"
+      },
+      {
+        "network": "GitHub",
+        "username": "MaxeceCodeFR",
+        "url": "https://github.com/MaxenceCodeFR"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Groupe LOTECK",
+      "position": "Développeur Web",
+      "location_type": "Hybride",
+      "location": "La Brède, France",
+      "url": "https://www.loteck.fr/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Mettre à jour le site existant et créer un nouveau site pour une nouvelle marque. Travailler en étroite collaboration avec l'équipe pour assurer la cohérence de la marque et l'expérience utilisateur.",
+      "highlights": [
+        "Respect des delais, écoute des besoins, conseil, réunion hebdomadaire"
+      ],
+      "responsibilities": [
+        "Écouter les besoins et retours, afin de proposer des solutions adaptées.",
+        "Implémenter des extensions WordPress pertinentes.",
+        "Utiliser un client FTP pour certaines résolutions de bogues.",
+        "Utiliser et modifier des thèmes WordPress.",
+        "Optimisation SEO en collaboration avec le service Google Ads."
+      ],
+      "achievements": [
+        "Le site remis à neuf convient aux attendus du tuteur. Le nouveau site reste en cours de développement."
+      ],
+      "skills": [
+        "WordPress",
+        "Divi",
+        "CSS",
+        "PHP",
+        "OVH"
+      ]
+    },
+    {
+      "name": "MEROS",
+      "position": "Développeur Web",
+      "location_type": "MyDigitalSchool",
+      "location": "Bordeaux, France",
+      "url": "https://meros.maxence-hattabi.mds-bordeaux.yt/",
+      "startDate": "2023-10-01",
+      "endDate": "2024-06-01",
+      "summary": "Projet étudiant dans des conditions réelles. Proposer une plateforme de gestion et de promotion d'influenceurs en collaboration avec une équipe Webmarketing.",
+      "highlights": [
+        "Travail en équipe, respect des delais, reunion hebdomadaire, suivis planning"
+      ],
+      "responsibilities": [
+        "Mettre en place des demandes et validation de partenariats.",
+        "Mettre en place des demandes et validation de candidatures d'influenceurs.",
+        "Connexion à l'API Meta Instagram pour récupérer les données des influenceurs.",
+        "Gestion des notifications.",
+        "Mise en place d'un blog.",
+        "Créer une base de données cohérente et optimisée.",
+        "Tester, déployer et faire du déploiment continu.",
+        "Tenir à jour un cahier des charges ainsi qu'un planning JIRA dans un environnement Agile.",
+        "Respecter les pratiques SEO.",
+        "Participer à des réunions de suivi et de présentation.",
+        "Participer à l'analyse de la concurence."
+      ],
+      "achievements": [
+        "Le site est dans un état final, optimisé et responsive. Les retours du jury final et de l'équipe ont été pris en compte pour les futures améliorations."
+      ],
+      "skills": [
+        "PHP",
+        "Symfony",
+        "MySQL",
+        "Twig",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Composer"
+      ]
+    },
+    {
+      "name": "Externatic & Wild Code School",
+      "position": "Développeur Web",
+      "location_type": "Remote",
+      "location": "Bordeaux, France",
+      "url": "https://github.com/MaxenceCodeFR/Project3Externatic",
+      "startDate": "2023-01-01",
+      "endDate": "2024-03-01",
+      "summary": "Projet étudiant pour le compte d'Externatic. Créer une extension du site déjà existant en y ajoutant une plus-value.",
+      "highlights": [
+        "Travail en équipe, respect des delais, reunion hebdomadaire, suivis planning"
+      ],
+      "responsibilities": [
+        "Mettre en place une messagerie interne en binôme.",
+        "Gestion des relations Utilisateur à Utilisateur.",
+        "Respect des pratiques de programmation grâce à PHPStan.",
+        "Mise en place d'une base de données MySQL.",
+        "Collaboration avec 4 développeurs."
+      ],
+      "achievements": [
+        "Le site présenté s'est vu offrir le prix de la meilleure présentation "
+      ],
+      "skills": [
+        "PHP",
+        "Symfony",
+        "MySQL",
+        "Twig",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "GitHub",
+        "Composer",
+        "Webpack"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Wild Code School",
+      "position": "Hackathon",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Hackathon de 48H basé sur le thème du transport en partenariat avec Amazon Web Services. Créer une application web en équipe de 4 personnes.",
+      "highlights": [
+        "Prix de la meilleure présentation"
+      ]
+    },
+    {
+      "organization": "MyDigitalSchool",
+      "position": "Top Code",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "url": "https://tainix.fr/board-dynamic/Top-Code-MyDigitalSchool2024-B3",
+      "summary": "Compétition sur 3H sur des challenges algorithmiques et de programmation. Compétition inter-campus.",
+      "highlights": [
+        "3e place pour le Campus de Bordeaux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ynov Campus - Bordeaux",
+      "url": "https://www.ynov.com/campus/bordeaux",
+      "area": "Expert en Développement Web",
+      "studyType": "Master",
+      "startDate": "2024-10-01",
+      "endDate": "2026-06-01",
+      "score": "A définir",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "MyDigitalSchool - Bordeaux",
+      "url": "https://www.mydigitalschool.com/ecole-multimedia-bordeaux",
+      "area": "Développeur Web & Web Mobile",
+      "studyType": "Bachelor 3",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "Wild Code School - Remote",
+      "url": "https://www.wildcodeschool.com/fr-fr/campus/a-distance",
+      "area": "Développeur PHP Symfony",
+      "studyType": "Bachelor 2",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Développeur Web & Web Mobile",
+      "date": "2024-05-01",
+      "issuer": "MyDigitalSchool",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Server",
+        "Scripting Language"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Framework"
+      ]
+    },
+    {
+      "name": "Twig",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Template Engine"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design",
+        "Framework"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Composer",
+      "level": "Intermediate",
+      "keywords": [
+        "Dependency Manager",
+        "PHP",
+        "Package Manager"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "CMS",
+        "PHP",
+        "Content Management"
+      ]
+    },
+    {
+      "name": "Divi",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "WordPress",
+        "Theme",
+        "Page Builder"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "French",
+      "fluency": "Langue maternelle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Chat'Potes",
+      "isActive": false,
+      "description": "Un service de messagerie instantanée pour les amis et la famille.",
+      "highlights": [
+        "Crée avec Symfony",
+        "Permet d'ajouter et de discuter avec en ajoutant leurs pseudos"
+      ]
+    },
+    {
+      "name": "MEROS",
+      "isActive": true,
+      "description": "Une application de gestion d'influenceurs",
+      "highlights": [
+        "Crée avec Symfony, Twig & Bootstrap",
+        "Permet de gérer les influenceurs et les partenariats",
+        "Connexion à l'API Meta Instagram pour visualiser des statistiques"
+      ],
+      "url": "https://meros.maxence-hattabi.mds-bordeaux.yt/",
+      "github": "https://github.com/MaxenceCodeFR/MEROSproduction"
+    },
+    {
+      "name": "Mc'Dalle",
+      "isActive": false,
+      "description": "Un exercice de création d'IHM de commande de fast-food",
+      "highlights": [
+        "Crée avec Symfony & Twig",
+        "CRUD complet et fonctionnel",
+        "Gestion des niveaux utilisateurs"
+      ],
+      "github": "https://github.com/MaxenceCodeFR/mcdalle"
+    },
+    {
+      "name": "(Projet à venir) E-commerce",
+      "isActive": false,
+      "description": "Création d'un site e-commerce et payment.",
+      "highlights": [
+        "Permettre la gestion d'un panier",
+        "Intégretion d'un système de paiement sécurisé"
+      ]
+    }
+  ]
+}
